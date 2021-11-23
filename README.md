@@ -4,7 +4,7 @@ ideas. One of such most famous and trending idea is food ordering platform like 
 and Grub Hub. These platforms expanded their wings in various sectors mainly related to consumer goods. 
 They often provide huge discounts, promotions, and coupon codes to attract the customers. The global online 
 food delivery services industry is predicted to increase at a compound annual growth rate (CAGR) of 10.3 
-percent from $115.07 billion in 2020 to $126.91 billion in 2021 [1]. Companies are resuming operations and 
+percent from $115.07 billion in 2020 to $126.91 billion in 2021. Companies are resuming operations and 
 adapting to the new normal as they recover from the COVID-19 impact, which had previously resulted in 
 restrictive containment measures such as social distancing, remote working, and the closure of commercial 
 activities, all of which created operational challenges. At a CAGR of 11%, the market is estimated to reach 
